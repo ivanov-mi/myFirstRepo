@@ -1,0 +1,12 @@
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.exe
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.deps.json
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.runtimeconfig.json
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.runtimeconfig.dev.json
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.dll
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.pdb
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.AssemblyInfo.cs
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.dll
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.pdb
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.genruntimeconfig.cache

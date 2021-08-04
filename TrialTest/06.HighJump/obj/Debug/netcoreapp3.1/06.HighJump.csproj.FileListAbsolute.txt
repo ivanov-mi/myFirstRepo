@@ -1,0 +1,13 @@
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.exe
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.deps.json
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.runtimeconfig.json
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.runtimeconfig.dev.json
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.dll
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.pdb
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.csprojAssemblyReference.cache
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.AssemblyInfoInputs.cache
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.AssemblyInfo.cs
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.csproj.CoreCompileInputs.cache
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.dll
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.pdb
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.genruntimeconfig.cache

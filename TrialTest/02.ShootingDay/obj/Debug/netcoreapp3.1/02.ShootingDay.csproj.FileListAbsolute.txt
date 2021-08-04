@@ -1,0 +1,13 @@
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\bin\Debug\netcoreapp3.1\02.ShootingDay.exe
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\bin\Debug\netcoreapp3.1\02.ShootingDay.deps.json
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\bin\Debug\netcoreapp3.1\02.ShootingDay.runtimeconfig.json
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\bin\Debug\netcoreapp3.1\02.ShootingDay.runtimeconfig.dev.json
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\bin\Debug\netcoreapp3.1\02.ShootingDay.dll
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\bin\Debug\netcoreapp3.1\02.ShootingDay.pdb
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\obj\Debug\netcoreapp3.1\02.ShootingDay.csprojAssemblyReference.cache
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\obj\Debug\netcoreapp3.1\02.ShootingDay.AssemblyInfoInputs.cache
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\obj\Debug\netcoreapp3.1\02.ShootingDay.AssemblyInfo.cs
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\obj\Debug\netcoreapp3.1\02.ShootingDay.csproj.CoreCompileInputs.cache
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\obj\Debug\netcoreapp3.1\02.ShootingDay.dll
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\obj\Debug\netcoreapp3.1\02.ShootingDay.pdb
+C:\Users\mart0\Documents\Visual Studio 2019\source\tmp\Softuni - Programing Basics Test 11.2020\TrialTest\02.ShootingDay\obj\Debug\netcoreapp3.1\02.ShootingDay.genruntimeconfig.cache
