@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BasketballEquipment", "01.BasketballEquipment\01.BasketballEquipment.csproj", "{138F0898-1695-4CDE-B16A-1A0DE7A2307D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BasketballEquipment", "01.BasketballEquipment\01.BasketballEquipment.csproj", "{138F0898-1695-4CDE-B16A-1A0DE7A2307D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ShootingDay", "02.ShootingDay\02.ShootingDay.csproj", "{D6737010-E055-428D-AE82-1350D1A6B783}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.ShootingDay", "02.ShootingDay\02.ShootingDay.csproj", "{D6737010-E055-428D-AE82-1350D1A6B783}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FootballScores", "02.FootballScores\02.FootballScores.csproj", "{F732893F-AA55-459D-B936-2DE5B0218455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.FootballScores", "02.FootballScores\02.FootballScores.csproj", "{F732893F-AA55-459D-B936-2DE5B0218455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RhythmicGymnastics", "03.RhythmicGymnastics\03.RhythmicGymnastics.csproj", "{8C769ADA-A16B-4BB0-9B9F-8A1FC6EEB45D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.RhythmicGymnastics", "03.RhythmicGymnastics\03.RhythmicGymnastics.csproj", "{8C769ADA-A16B-4BB0-9B9F-8A1FC6EEB45D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.NumberWars", "04.NumberWars\04.NumberWars.csproj", "{B06C785A-481B-42DF-9B52-B87833B145DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.NumberWars", "04.NumberWars\04.NumberWars.csproj", "{B06C785A-481B-42DF-9B52-B87833B145DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.TennisRanklist", "05.TennisRanklist\05.TennisRanklist.csproj", "{1DFDDE0B-73D4-4303-837F-B23461C8F272}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.TennisRanklist", "05.TennisRanklist\05.TennisRanklist.csproj", "{1DFDDE0B-73D4-4303-837F-B23461C8F272}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.HighJump", "06.HighJump\06.HighJump.csproj", "{BC7D53CD-2031-4476-83BF-456290A72053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.HighJump", "06.HighJump\06.HighJump.csproj", "{BC7D53CD-2031-4476-83BF-456290A72053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.NewTestApp", "07.NewTestApp\07.NewTestApp.csproj", "{D0C10870-DDBC-455C-B1CB-6FCD22A0031B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{BC7D53CD-2031-4476-83BF-456290A72053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC7D53CD-2031-4476-83BF-456290A72053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC7D53CD-2031-4476-83BF-456290A72053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C10870-DDBC-455C-B1CB-6FCD22A0031B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C10870-DDBC-455C-B1CB-6FCD22A0031B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C10870-DDBC-455C-B1CB-6FCD22A0031B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C10870-DDBC-455C-B1CB-6FCD22A0031B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
