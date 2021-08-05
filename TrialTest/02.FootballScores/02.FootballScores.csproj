@@ -6,4 +6,11 @@
     <RootNamespace>_02.FootballScores</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="Settings.StyleCop">
+      <ExcludeFromSourceAnalysis>False</ExcludeFromSourceAnalysis>
+      <ExcludeFromStyleCop>False</ExcludeFromStyleCop>
+    </None>
+  </ItemGroup>
+
 </Project>

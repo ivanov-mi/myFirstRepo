@@ -1,9 +1,8 @@
 ﻿using System;
 
-
-class FootballScores
+public class FootballScores
 {
-    static void Main()
+    public static void Main()
     {
         string firstGame = Console.ReadLine();
         string secondGame = Console.ReadLine();
@@ -51,9 +50,9 @@ class FootballScores
         {
             lose++;
         }
+
         Console.WriteLine("Team won {0} games.", won);
         Console.WriteLine("Team lost {0} games.", lose);
         Console.WriteLine("Drawn games: {0}", draw);
     }
 }
-

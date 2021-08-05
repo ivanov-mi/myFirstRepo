@@ -6,4 +6,11 @@
     <RootNamespace>_01.BasketballEquipment</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Update="BasketballEqupment.cs">
+      <ExcludeFromSourceAnalysis>False</ExcludeFromSourceAnalysis>
+      <ExcludeFromStyleCop>False</ExcludeFromStyleCop>
+    </Compile>
+  </ItemGroup>
+
 </Project>

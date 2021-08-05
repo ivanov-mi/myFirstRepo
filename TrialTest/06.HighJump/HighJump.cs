@@ -1,10 +1,11 @@
 ﻿using System;
 
-class HighJump
+public class HighJump
 {
-    static void Main()
+    public static void Main()
     {
         int desirableHeight = int.Parse(Console.ReadLine());
+
         int currentHeight = desirableHeight - 30;
         int totalAttemps = 0;
         int foul = 0;
@@ -15,7 +16,6 @@ class HighJump
             totalAttemps++;
 
             int currentAttempt = int.Parse(Console.ReadLine());
-
 
             if (currentAttempt > currentHeight)
             {
@@ -35,13 +35,17 @@ class HighJump
 
         if (successfullWorkout)
         {
-            Console.WriteLine("Tihomir succeeded, he jumped over {0}cm after {1} jumps.", desirableHeight, totalAttemps);
+            Console.WriteLine(
+                "Tihomir succeeded, he jumped over {0}cm after {1} jumps.", 
+                desirableHeight, 
+                totalAttemps);
         }
         else if (!successfullWorkout)
         {
-            Console.WriteLine("Tihomir failed at {0}cm after {1} jumps.", currentHeight, totalAttemps);
+            Console.WriteLine(
+                "Tihomir failed at {0}cm after {1} jumps.", 
+                currentHeight, 
+                totalAttemps);
         }
-
     }
 }
-

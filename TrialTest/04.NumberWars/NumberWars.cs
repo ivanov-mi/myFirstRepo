@@ -1,29 +1,27 @@
 ﻿using System;
 
-
-class NumberWars
+public class NumberWars
 {
-    static void Main()
+    public static void Main()
     {
         string firstPlayer = Console.ReadLine();
         string secondPlayer = Console.ReadLine();
+
         bool numberWar = false;
         int scoreFirstPlayer = 0;
         int scoreSecondPlayer = 0;
-        string winner = "";
         int winnerPoints = 0;
-
-
+        string winner = string.Empty;
 
         while (true)
         {
-
-            //Input
+            // Input
             string inputString = Console.ReadLine();
             if (inputString == "End of game")
             {
                 break;
             }
+
             int firstPlayerCard = Convert.ToInt32(inputString);
 
             inputString = Console.ReadLine();
@@ -31,18 +29,16 @@ class NumberWars
             {
                 break;
             }
+
             int secondPlayerCard = Convert.ToInt32(inputString);
 
-
-
-            //Game Logic
+            // Game Logic
             if (numberWar)
             {
                 if (firstPlayerCard > secondPlayerCard)
                 {
                     winner = firstPlayer;
-                    winnerPoints = scoreFirstPlayer;
-                    
+                    winnerPoints = scoreFirstPlayer;                    
                 }
                 else if (firstPlayerCard < secondPlayerCard)
                 {
@@ -61,13 +57,11 @@ class NumberWars
                 {
                     scoreSecondPlayer += (int)secondPlayerCard - (int)firstPlayerCard;
                 }
-
                 else if (firstPlayerCard == secondPlayerCard)
                 {
                     numberWar = true;
                 }
             }
-
         }
 
         // Print
@@ -80,8 +74,6 @@ class NumberWars
         {
             Console.WriteLine("{0} has {1} points", firstPlayer, scoreFirstPlayer);
             Console.WriteLine("{0} has {1} points", secondPlayer, scoreSecondPlayer);
-        }      
-               
+        }                
     }
 }
-
