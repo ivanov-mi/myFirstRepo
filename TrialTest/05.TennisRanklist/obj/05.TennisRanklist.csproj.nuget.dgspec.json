@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mart0\\Documents\\Visual Studio 2019\\source\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\05.TennisRanklist\\05.TennisRanklist.csproj": {}
+    "C:\\Users\\mart0\\Documents\\03 Programing\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\05.TennisRanklist\\05.TennisRanklist.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mart0\\Documents\\Visual Studio 2019\\source\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\05.TennisRanklist\\05.TennisRanklist.csproj": {
+    "C:\\Users\\mart0\\Documents\\03 Programing\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\05.TennisRanklist\\05.TennisRanklist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mart0\\Documents\\Visual Studio 2019\\source\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\05.TennisRanklist\\05.TennisRanklist.csproj",
+        "projectUniqueName": "C:\\Users\\mart0\\Documents\\03 Programing\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\05.TennisRanklist\\05.TennisRanklist.csproj",
         "projectName": "05.TennisRanklist",
-        "projectPath": "C:\\Users\\mart0\\Documents\\Visual Studio 2019\\source\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\05.TennisRanklist\\05.TennisRanklist.csproj",
+        "projectPath": "C:\\Users\\mart0\\Documents\\03 Programing\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\05.TennisRanklist\\05.TennisRanklist.csproj",
         "packagesPath": "C:\\Users\\mart0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mart0\\Documents\\Visual Studio 2019\\source\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\05.TennisRanklist\\obj\\",
+        "outputPath": "C:\\Users\\mart0\\Documents\\03 Programing\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\05.TennisRanklist\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mart0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

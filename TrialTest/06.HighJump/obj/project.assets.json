@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\mart0\\.nuget\\packages\\": {}
+    "C:\\Users\\mart0\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mart0\\Documents\\Visual Studio 2019\\source\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\06.HighJump\\06.HighJump.csproj",
+      "projectUniqueName": "C:\\Users\\mart0\\Documents\\03 Programing\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\06.HighJump\\06.HighJump.csproj",
       "projectName": "06.HighJump",
-      "projectPath": "C:\\Users\\mart0\\Documents\\Visual Studio 2019\\source\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\06.HighJump\\06.HighJump.csproj",
+      "projectPath": "C:\\Users\\mart0\\Documents\\03 Programing\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\06.HighJump\\06.HighJump.csproj",
       "packagesPath": "C:\\Users\\mart0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mart0\\Documents\\Visual Studio 2019\\source\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\06.HighJump\\obj\\",
+      "outputPath": "C:\\Users\\mart0\\Documents\\03 Programing\\tmp\\Softuni - Programing Basics Test 11.2020\\TrialTest\\06.HighJump\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\mart0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
